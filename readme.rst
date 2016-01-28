@@ -10,7 +10,7 @@ It is purposefully broken.
 Team Members
 ************
 Emilio Wu
-Khang Tran
+Khang Tran - Acknowledged 
 Mark Batin
 
 ******************
