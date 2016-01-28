@@ -18,7 +18,7 @@ Coding Conventions
 ******************
 Almond style coding
 
-**************
+************** 
 Intended Usage
 **************
 
