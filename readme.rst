@@ -10,7 +10,7 @@ It is purposefully broken.
 Team Members
 ************
 Emilio Wu
-Khang Tran - Acknowledged 
+Khang Tran -Acknowledged
 Mark Batin
 
 ******************
@@ -18,7 +18,7 @@ Coding Conventions
 ******************
 Allman style coding
 
-**************
+************** 
 Intended Usage
 **************
 
