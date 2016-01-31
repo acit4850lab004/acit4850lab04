@@ -37,15 +37,19 @@
 | in the URL cannot be matched to a valid route.
 |
 */
-
+//Default routing
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
+
+//Mark's portion or routing
+$route['first'] = "First/index";
+$route['lock/.*?/.*?'] = "welcome/shucks";
 
 //Khang's portion or routing
 $route['show/(\d+)'] = 'First/gimme/$1'; //(/d+) means any digit
 $route['([a-z]{4})/bingo'] = 'Bingo'; //shooses 4 characters from a regular expression 
 
-
+//Emilio's portion or routing
 $route['sleep'] = 'First/zzz';
 $route['dunno'] = function ()
 {
