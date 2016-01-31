@@ -9,14 +9,14 @@ It is purposefully broken.
 ************
 Team Members
 ************
-Emilio Wu
-Khang Tran
-Mark Batin
+Emilio Wu - Acknowledged
+Khang Tran - Acknowledged 
+Mark Batin - Acknowledged
 
 ******************
 Coding Conventions
 ******************
-Almond style coding
+Allman style coding
 
 **************
 Intended Usage
